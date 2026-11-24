@@ -1,6 +1,8 @@
 {
   "name": "skillbridge",
   "version": "1.0.0",
+  "description": "Curriculum-to-Industry Skill Gap Analytics Platform for Department of Computer Science & Engineering - Live at https://skillbridge-6d9cf.web.app",
+  "homepage": "https://skillbridge-6d9cf.web.app",
   "private": true,
   "scripts": {
     "dev": "next dev",

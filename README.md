@@ -1,6 +1,8 @@
 # 🎓 SkillBridge – Curriculum-to-Industry Skill Gap Analytics Platform
 
-> **A Modern, Full-Stack Academic Analytics Platform Designed for University Deans, Board of Studies, and Faculty Curriculum Committees.**
+> **A Full-Stack Academic Curriculum Quality & Accreditation Analytics Platform for University Department of Computer Science & Engineering.**
+
+[![Live Demo](https://img.shields.io/badge/Live_Deployment-https%3A%2F%2Fskillbridge--6d9cf.web.app-2563eb?style=for-the-badge&logo=firebase&logoColor=white)](https://skillbridge-6d9cf.web.app)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14_App_Router-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
@@ -8,6 +10,19 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Auth_%26_Firestore-FFCA28?logo=firebase)](https://firebase.google.com/)
 [![Plan](https://img.shields.io/badge/Firebase_Plan-Spark_Free_Tier-success)](https://firebase.google.com/pricing)
 [![Export](https://img.shields.io/badge/Architecture-Static_Export_SPA-indigo)](https://nextjs.org/docs/app/building-your-application/deploying/static-exports)
+
+---
+
+## 🌐 Live Production Deployment
+
+* **Public Web URL:** **[https://skillbridge-6d9cf.web.app](https://skillbridge-6d9cf.web.app)**
+* **Hosting Platform:** Firebase Hosting (Google CDN)
+* **Authentication:** Google Single Sign-On (SSO) via Firebase Auth
+* **Database:** Cloud Firestore with Per-Faculty Workspace Isolation
+* **Department Scope:** Dept. of Computer Science & Engineering • B.Tech CSE (Regulation R22)
+* **Compliance Standards:** Outcome-Based Education (OBE), NBA Tier-I SAR Criterion 2, NAAC Sub-criterion 1.1
+
+---
 
 ---
 
